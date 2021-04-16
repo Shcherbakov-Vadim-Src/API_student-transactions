@@ -1,0 +1,51 @@
+body {
+    padding: 15px;
+    background-color: whitesmoke;
+}
+
+.conteiner {
+    background-color: wheat;
+    border-radius: 20px;
+    padding: 15px;
+    width: 820px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+td {
+    width: 180px;
+}
+
+.header {
+    font-size: 17px;
+    margin: 5px 0 10px 0;
+    color: brown;
+    font-weight: 600;
+}
+
+.paymentFrom, .to, .summ {
+    width: 200px;
+    margin: 5px 0 0 0;
+}
+
+.button {
+    margin: 10px 0 20px 0;
+    width: 265px;
+}
+
+table, td {
+    border: 1px solid steelblue;
+    text-align: center;
+    padding: 3px;
+}
+
+.to {
+    margin: 5px 0 0 15px;
+}
+
+.summ {
+    margin: 5px 0 0 5px;
+}
